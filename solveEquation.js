@@ -1,0 +1,1 @@
+//Solve equation using js
